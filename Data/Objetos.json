@@ -15,5 +15,14 @@
       "defesa": 0
     },
     "coletavel": false
+  },
+  "martelo": {
+    "descricao": "Um martelo grande, coletavel, dano 8 defesa 4",
+    "atributos": {
+      "dano": 6,
+      "defesa": 2
+    },
+    "coletavel": true
   }
+
 }
